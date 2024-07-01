@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.ladd</groupId>
-	<artifactId>appruner</artifactId>
+	<artifactId>apprunner</artifactId>
 	<version>0.0.1</version>
 	<name>chapter1-1</name>
 	<description>快速入门</description>
